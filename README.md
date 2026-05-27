@@ -1,4 +1,4 @@
-# ProgettoCapolavoro2026
+# ProgettoCapolavoro2026 Tesio Motors
 
 Benvenuto nel progetto **Tesio Motors**, un sito web per una concessionaria di auto e moto. Il sito permette agli utenti di esplorare i cataloghi dei veicoli, filtrare le ricerche in base a vari parametri (prezzo, anno, marca, stato), visualizzare i dettagli specifici di ogni veicolo e richiedere informazioni, tutto tramite un server in locale.
 
